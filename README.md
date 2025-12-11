@@ -2,6 +2,8 @@
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
+ ### [Website Link](http://demonsx7.github.io/Website-Development-Documentation-Process/)
+
 <h2>Description</h2>
 This project documents a personal website which was developed through my first year of university as a way to demonstrate my HTML skills while developing a website showcasing myself.  The work demonstrates my critical abilities in HTML creation, Styling Sheet Management, and as well as hosting and managing resources for the website using a Windows client computer and github Pages as a domain controller. <br /> <br/> This home lab website development demonstrates my achievement of practical experience in creating HTML and CSS script infrastructures that is operational.
 <br />
